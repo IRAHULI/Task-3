@@ -1,0 +1,55 @@
+/* Written by Rahul Imtiaz - Student Number: 8941944 */
+
+body {
+  font: 20px/1.5 Arial, sans-serif;
+  background-color: hsla(295, 85%, 68%, 0.847);
+  height: 100vh;
+  width: 100vw;
+}
+
+  h2 {
+    color: #ff0;
+    font-size: 1.5em;
+  }
+
+  main{
+    float: left;
+    width: 620px;
+  }
+  aside{
+    float: left;
+    width: 250px;
+  }
+  footer{
+    clear: both;
+  }
+.structural{
+  padding: 50px;
+  border: 5px solid black;
+  margin: 20px;
+}
+#G1{
+  color: rgb(100,20,20);
+
+}
+#G2{
+  color: rgb(100,150,50);
+}
+header{
+  background-color: hsl(116, 92%, 39%);
+}
+main{
+  background-color: hsl(11, 90%, 33%);
+}
+aside{
+  background-color: hsl(129, 47%, 40%);
+}
+footer{
+  background-color: hsl(191, 90%, 72%);
+}
+a:hover{
+  color: #ff0;
+}
+footer p{
+  font-size: 10px;
+}
